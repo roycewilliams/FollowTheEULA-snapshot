@@ -1,14 +1,9 @@
-A python program to check for servers bypassing the Mojang domain ban
+A python 2.7 program to check for servers bypassing the Mojang domain ban
 
-___________    .__  .__                ___________.__           _______________ ___.____       _____   
-\_   _____/___ |  | |  |   ______  _  _\__    ___/|  |__   ____ \_   _____/    |   \    |     /  _  \  
- |    __)/  _ \|  | |  |  /  _ \ \/ \/ / |    |   |  |  \_/ __ \ |    __)_|    |   /    |    /  /_\  \ 
- |     \(  <_> )  |_|  |_(  <_> )     /  |    |   |   Y  \  ___/ |        \    |  /|    |___/    |    \
- \___  / \____/|____/____/\____/ \/\_/   |____|   |___|  /\___  >_______  /______/ |_______ \____|__  /
-     \/                                                \/     \/        \/                 \/       \/ 
+#Follow The EULA#
                                                                 
 
- Programmed By: Reecepbcups - August 25th 2018
+Programmed By: Reecepbcups - August 25th 2018
 
 
  This program is used to gather Minecraft server EULA block bypasses.
@@ -18,3 +13,8 @@ ___________    .__  .__                ___________.__           _______________ 
 # How to Run ###
 1. Run main(), which will call the outputToFile(), ab_all_blocked_Servers(), and check() functions
 2. IPs in the Bypassed_Ips.txt file need to be blocked as they are bypassing using the DNS work around :)
+
+#What You Need installed#
+You Will need to have: 
+  Python 2.x.x
+  request, json, pprint modules (Sudo pip install request, json, pprint)
