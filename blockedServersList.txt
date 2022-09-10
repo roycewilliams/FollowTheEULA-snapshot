@@ -527,8 +527,7 @@ b11889f85086302bbdf31af519a44ae06885a9ab:jp7hozekju0tzgjy.strangled.net
 222ab8a2602e498651e42d750f89416f6cf3fd11:kbucw0khr5.ddns.net
 758106fbe6ffe26f786f820a4a45f36459405968:lz8htz56nrv26ag.ddns.net
 f531b026f04a634680dff991f9bbd283d187de40:mgerongrseong.mooo.com
-7975b84527a1f477e691794f3e122a4658a63247:modding-api-makes-it-easier-to-
-follow-eula-and-add-features.ignorelist.com
+7975b84527a1f477e691794f3e122a4658a63247:modding-api-makes-it-easier-to-follow-eula-and-add-features.ignorelist.com
 f92dd4abac0b6da1530b47def22f729f3c321adb:moddingapi.strangled.net
 66bfa7b4ea263a63f1f75c979eed6a165ca64e34:msbv3khadwvye5zsxssmthlgj.ddns.net
 9601c71d044833b3ecd38f34ab338c10ba25fb43:n7i1e810i1mi82o.ddns.net
@@ -556,8 +555,7 @@ def6cd8d1539e98b5fbd2647163de063541004f9:tfwcvnb8xae9ord1wssg3ieck.ddns.net
 a3eda75bbf06f56c9c4a6ba8b6af2a9050e59b1f:ufr42d5mdt.ddns.net
 a54f349cb14dcb77d971408d64f4142c17cc706a:v4q50eqpuoagr1q1tf1ckgf6g.ddns.net
 ba7e0fbb748cc36b14c75e7f3c32e9897512f122:
-bada774bbc3eeedf314f5b777bbd69c4a9295242:what-happened-to-the-modding-api-you-
-promised.ignorelist.com
+bada774bbc3eeedf314f5b777bbd69c4a9295242:what-happened-to-the-modding-api-you-promised.ignorelist.com
 68f55cde589215cbb5215fdd3e280b0e715c4537:whyaddfeatureswhenyoucanblacklistinstead.ignorelist.com
 cbd77f330c2f364a9751ea30303877dcf78c493e:xehixif31artvyb.ddns.net
 fb9e0cb588102d0e92180257f281373d78989bfc:xicm3jic69wrl4s85zewmipvg4gzfnn2v6e4v2ns1p9sk76vdah5zd65ndusq80.ignorelist.com
@@ -684,8 +682,7 @@ a7d74619415f3c6250dc8d1d834e94d1b41d79fd:blockgommehd-net.ddns.net
 2bd274b1fec026eb099147bdcd2ffccbb7f8dec1:hivemc.ddns.net
 d9ff162431c79caa61895927f3721942f55a3435:hotsquidslowlyundressing.ddns.net
 1b516fa7b5e9fccac1a0b26df39a03436a3fd006:hypickel.ddns.net
-d852543bcfb494592d9dc2b492f0a3b7370ac826:i-moved-my-community-to-endfight-net-
-lol-at-you.ddns.net
+d852543bcfb494592d9dc2b492f0a3b7370ac826:i-moved-my-community-to-endfight-net-lol-at-you.ddns.net
 b5f3f5421278b6841f7127fdede1a4ddab444b89:imsellinglikeagodchurch.ddns.net
 e3b01a3b7e7e35e57bc8b14404bb91a015482420:imsleepingrightnow.ddns.net
 45bd1a8b01b609ce6f4264aa417b024d9e28b336:infinitepaycheckbro.ddns.net
@@ -959,8 +956,7 @@ d486d5ad85348903a16971334772714563fa0d93:
 adc95a964c7e4b319cf650b8ffdf598bf7ab4624:*.mc-complex.com
 6a2f19557427469cbd89845f63f9fe1fd536dc1d:hymsw49gwhu8kd67.ddns.net
 d6f3c3a325d1c1dcee760c569c4f066a9b228860:*.88centdomain.club
-3940cef3e4dae827cae6f06dfa2755d639d705de:*.8v-
-thatfacewhenyoubustbutbrandonstillsuckin.xyz
+3940cef3e4dae827cae6f06dfa2755d639d705de:*.8v-thatfacewhenyoubustbutbrandonstillsuckin.xyz
 8eeec0c08dc73eb89737f4c4de89812073414265:*.aemservers.net
 79aecb5b9fafced11f05bbb6939262f5d4e3626b:*.blacklistthisifyousupportrape.host
 c771afc30e07de320f24062fbf2a19a86f4840ef:*.blockgamemoney.bid
@@ -1005,8 +1001,7 @@ c1a29e21dfa28bf207bf1390160e1ca79f2c5088:*.hyohyohy.tech
 a10b2708a17779fce91eefd712220d3dae746d5b:*.hyyyyyyyy.pw
 f4d5934bc00e3922f7ae3911995f4bfa0c0ae397:*.imhumbledtobenoticedbyyoudailymojangnowkindlyblowme.online
 a831a53b6812e63b6e68eae7e141403de6909c9c:*.lmaoimstill.online
-3046860a8e5fcafbd461d04d7b8de3d0043a62bc:*.mc.youre-literally-broke-microsoft-
-slaves-lol.trade
+3046860a8e5fcafbd461d04d7b8de3d0043a62bc:*.mc.youre-literally-broke-microsoft-slaves-lol.trade
 e7a804a58835519961b11579225c3cf79b173871:*.mojangendorsesbrazers.webcam
 605e6296b8dba9f0e4b8e43269fe5d053b5f4f1b:*.mojangendorsesbrazzers.webcam
 987f0138282d4ab366d24fb792aceefec99571ca:*.mojangfucksdogson.webcam
@@ -1024,17 +1019,11 @@ c72e0ea602f808dabe7cf8303ef0df3644b0d4ef:*.quicksytes.com
 94a4700e53224294d78b34fe3e89d1c6aa9672d8:*.swaysmokesweed1.ddns.net
 7ea72de5f8e70a2ac45f1aa17d43f0ca3cddeedd:*.trollingbrandon.club
 4e3d4b8770ab0e14ce79a24beb4fec54236d3f05:*.yipeedipee.site
-304eb04aba3be5f08db249750e4d0c4c55fc33bf:*.youre-literally-broke-microsoft-
-slaves-lol.bid 3adeaec02627b3e25aa2b05b0381175c16678e54:*.youre-literally-
-broke-microsoft-slaves-lol.club 275ad3c8760f8bb132fb449ae0aa4a1ddadbf829
-:*.youre-literally-broke-microsoft-slaves-lol.pw
-2c63f5dfb662c49f7f2dfb75e909d34022552204:*.youre-literally-broke-microsoft-
-slaves-lol.site 4ab905ee7ba72714189c8c5a6fbd73e5266957a8:*.youre-literally-
-broke-microsoft-slaves-lol.space 38cf70dc01f397c045549c0605e76c8e7d820d4a
-:*.youre-literally-broke-microsoft-slaves-lol.tech
-8a753d1cc6fa23e016b6e60726edffbe85360efe:*.youre-literally-broke-microsoft-
-slaves-lol.top 981a318d7d17145986cf669bb82bd372e31b8a60:*.youre-literally-
-broke-microsoft-slaves-lol.website
+304eb04aba3be5f08db249750e4d0c4c55fc33bf:*.youre-literally-broke-microsoft-slaves-lol.bid 3adeaec02627b3e25aa2b05b0381175c16678e54:*.youre-literally-broke-microsoft-slaves-lol.club 275ad3c8760f8bb132fb449ae0aa4a1ddadbf829:*.youre-literally-broke-microsoft-slaves-lol.pw
+2c63f5dfb662c49f7f2dfb75e909d34022552204:*.youre-literally-broke-microsoft-slaves-lol.site 4ab905ee7ba72714189c8c5a6fbd73e5266957a8:*.youre-literally-broke-microsoft-slaves-lol.space
+38cf70dc01f397c045549c0605e76c8e7d820d4a:*.youre-literally-broke-microsoft-slaves-lol.tech
+8a753d1cc6fa23e016b6e60726edffbe85360efe:*.youre-literally-broke-microsoft-slaves-lol.top
+981a318d7d17145986cf669bb82bd372e31b8a60:*.youre-literally-broke-microsoft-slaves-lol.website
 dcc1f876e258ac5ecab28244da7a94ed44d4b43f:198.27.77.72
 9459ad2cff0b6629a0481d49529d3019c29f2b6f:2332r33r2f34r24r3dsf.ddns.net
 29a2208fbbb8b4cc8cb694057fb8ef3add7608ee:23d0f823d932id2dop2i3d.ddns.net
@@ -1060,8 +1049,7 @@ e824bc0354c3744ec2af7b8c26c455d0e837d680:asdas1d6sa4d56sa4d.ddns.net
 c5098ad9f7c70805a2c98e5f9bf6c4d5e6d0acfa:asdas984d9as4da.ddns.net
 c05121d715e797f4e7a933719d61f1cdddb3922a:aspdopsad3d2j0d8932uf32iof2df.ddns.net
 41f72ce17c916eeb569d9f9f7cc00fc204e6a5ea:awsd951wa9d48sad.ddns.net
-b8c876f599dcf5162911bba2d543ccbd23d18ae5:brandonisagainst.health-
-carereform.com
+b8c876f599dcf5162911bba2d543ccbd23d18ae5:brandonisagainst.health-carereform.com
 48f04e89d20b15de115503f22fedfe2cb2d1ab12:brandonisan.unusualperson.com
 9a9ae8e9d0b6f3bf54c266dcd1e4ec034e13f714:brandonwatchesporn.onthewifi.com
 336e718ffbc705e76b4a72884172c6b95216b57c:canyouwildcardipsplease.gotdns.ch
@@ -1070,8 +1058,7 @@ carereform.com
 bd2e44f25e9162629b84c903e561211d9133ebc6:chocowhite15.ddns.net
 6a88f64b36ed3140a12aad773fe93ccc3689d048:chocowhite16.ddns.net
 3f86899ed38019d51c6d9e77328093f68bd8428f:chocowhite17.ddns.net
-567763a2d2fec45507a3c29d98c0ca672803e2b8:chocowhite18-ddns-net-was-a-real-
-server-lol.ddns.net
+567763a2d2fec45507a3c29d98c0ca672803e2b8:chocowhite18-ddns-net-was-a-real-server-lol.ddns.net
 566fc15d96d2636101e7b0aecf4b93733f9cf4f7:chocowhite19.ddns.net
 31e0a707936a35428cf5d366568d92f983d715b7:chocowhite20.ddns.net
 c335d6ef7fb1c440c5e4a36b3732fbae90566760:chocowhite21.ddns.net
@@ -1147,14 +1134,12 @@ ead2ec1b62ab4e91258cc9d9620908e0fcd62930:f0823f23jkbnfasdfhlaskduqwe91.ddns.net
 67ae1565ef4ecf0a283881ec0f2548b262db0b20:gonesexual.ddns.net
 63e4486942663de1149fda7eeee7da007f5c4d3c:gonewrong.ddns.net
 e1528f44e98b0fa4c7aeed5cc2e1b8c5553fddcb:humplex.ddns.net
-aa445f8f9810d808a0228b5c5286f33141c877e2:if-youre-blocked-fucktheeula-com-
-lol.ddns.net f5a5cba5f7d2c3cb235d485c9dd754cb481736b6:inthehood.ddns.net
+aa445f8f9810d808a0228b5c5286f33141c877e2:if-youre-blocked-fucktheeula-com-lol.ddns.net f5a5cba5f7d2c3cb235d485c9dd754cb481736b6:inthehood.ddns.net
 5b9485e33206e4779934a535b469e7e0372df76e:jesusdidnothingwrong.myftp.biz
 e1054e3a6387c1acc1a4d457826196ef9dcb487e:jigglypuff.dnsiskinky.com
 4a1b3b860ba0b441fa722bbcba97a614f6af9bb8:justgiveinandblockddnsbitches.ddns.net
 8e27886cdea73034eb09ce4b4f5b737eb6ce2660:kemplex.ddns.net
-f35626d14945983f63d3e1d9ea6fee79a4d56029:lets-make-your-job-more-fun-shall-
-we.ddns.net
+f35626d14945983f63d3e1d9ea6fee79a4d56029:lets-make-your-job-more-fun-shall-we.ddns.net
 27cf97ecf24c92f1fe5c84c5ff654728c3ee37dd:letsplaysome.servecounterstrike.com
 f795c3ef89f86630d6814531e178a3072a54a399:lolmojangsosalty1.ddns.net
 9c5da28e6d8fe70d8c507ad32379257193de76ff:lolmojangsosalty2.ddns.net
@@ -1194,8 +1179,8 @@ aab5e6ae0d8ed0b3a1f437fe112cd0c456bbefea:mojang9.ddns.net
 d0b245e7c1a420184e80db0b10440ab374be354b:mumucraft.servehttp.com
 3cda765eea22fe7e9075813fa3fabf9806520203:mustwatch.ddns.net
 329addf221e435018eb912904d9a7bd075335dc3:nidorino.collegefan.org
-1833a73f1bf6791836fef34313313b242593c8ac:one-of-these-is-a-real-server-
-lol.ddns.net 26c30ba587af7828fce8a8fd0403c78a94cc50e7:persian.mlbfan.org
+1833a73f1bf6791836fef34313313b242593c8ac:one-of-these-is-a-real-server-lol.ddns.net
+26c30ba587af7828fce8a8fd0403c78a94cc50e7:persian.mlbfan.org
 b53c5d1ede8ea67a3a3efa1670b13c662af74dc0:pidgey.serveftp.com
 be5f58418b41bcee4b17dfd2e1e3b783b5074cc2:pikachu.viewdns.net
 9ab250b9861d527c1f2998cd7a173c09a6e663ec:playaemservers.ddns.net
@@ -1942,8 +1927,8 @@ c07039e0b281156a7f79c265afcf5f8d76f6c253:fckeula8.ddns.net
 f6c305fb788eeebdc8a81ecb076cdcfef39a59fa:mcfoxcraft.com
 4ce8bfaa2eab20cad88653b8afa1de5e785bfc9c:onlinesince2011.ddns.net
 d0915ebbb7b99079c1e1e422aacfaa7c231169a3:*.differentcraft.net
-0d5234bfd3c861ffbd0133dad5ae57984d205df1:t8pg8d0ps6vzm9rl05koh9u8yd9235gm3b81
-.free-ddns.win a8f1714e5a36d824df8b3ed4b38af3681cdf6a60:*.candycraft.org
+0d5234bfd3c861ffbd0133dad5ae57984d205df1:t8pg8d0ps6vzm9rl05koh9u8yd9235gm3b81.free-ddns.win
+a8f1714e5a36d824df8b3ed4b38af3681cdf6a60:*.candycraft.org
 2db8cef4e1cd1dc11168ee3213e97b00b66fa65c:521kgqzouj.ddns.net
 5f2ccb88fd30c5282d2d3b0f7e9fcb0c805a44c1:64rrnoe57l.ddns.net
 135d0fe03de33b9ecd8d24e97c7e312c1c5f5c99:77q3kd7120rzerhn.ddns.net
@@ -1991,8 +1976,8 @@ b6f918fef737bf19d789e2a3e79492a9c0b01448:h6mc.ddns.net
 3069100b05e4750b44f4f541cd09604df811f4b9:h7mc.ddns.net
 bc50ad8ec28a5dce20214e59528d368c0075b452:h8mc.ddns.net
 c9e5d958a594c2fb122956b105e680189d7bb5fa:h9mc.ddns.net
-bb83aeeac53cf42a16efaa89766be48aa3e6654c:lunamc-bypass-
-mojang1.securitytactics.com 31f5465956f77156d8d1953a5e94c4af2e291943:
+bb83aeeac53cf42a16efaa89766be48aa3e6654c:lunamc-bypass-mojang1.securitytactics.com
+31f5465956f77156d8d1953a5e94c4af2e291943:
 4e6f10d22f759cdfd5110f023748415ece9f6233:
 a94429dbe39efb1c1ee6fd5a19a9e29982b54422:*.detriox.net
 309cb45ac5292c740b06158628bed9a0c421b32f:*.wildcraft.fr
@@ -2206,4 +2191,3 @@ f56238355bf8aa9f00b53bdc0989cc5f9aab0884:*.minecraft-romania.ro
 fab898fb32a1b3eeee6767cde84b92c78125ceaa:
 b72ef96961fd1cb52a4d98b790a82ef27f12f4e3:*.bedcraft.eu
 2c62c41e94dadb6f4385be154552eab1e221217b:*.pixelspark.org
-
